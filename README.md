@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript and React (Both regular and Native 😉)
 - 📫 How to reach me:
 
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width='60'>](appiatujason@gmail.com)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width='60'>](mailto:appiatujason@gmail.com)
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width='80'>](https://www.linkedin.com/in/jason-appiatu/)
 
 <br />

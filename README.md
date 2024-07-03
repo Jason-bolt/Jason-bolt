@@ -2,9 +2,9 @@
 
 ## I'm Jason Kwame Appiatu
 
-I am a full stack software engineer, an instrumentalist (heavy on the guitars 🎸🔥😁) and an artist.
+I am a full-stack software engineer, an instrumentalist (heavy on the guitars 🎸🔥😁), and an artist.
 
-As a software engineer, I am passionate and self motivated to keep learning and improving to keep myself relevant in this fast changing field.
+As a software engineer, I am passionate and self-motivated to keep learning and improving to keep myself relevant in this fast-changing field.
 
 <!--
 **Jason-bolt/Jason-bolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 <br />
 
-- 🔭 I’m currently working on web related development however, I am open to all software engineering opportunities.
-- 🌱 I’m currently learning TypeScript and React (Both regular and Native 😉)
+- 🔭 I’m currently working on web-related development however, I am open to all software engineering opportunities.
+- 🌱 I’m currently learning Supabase and how I can incorporate it in my projects.
 - 📫 How to reach me:
 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width='60'>](mailto:appiatujason@gmail.com)
